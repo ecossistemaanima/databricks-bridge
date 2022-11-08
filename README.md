@@ -16,4 +16,4 @@ sqlRun(query, (data) => {
 })
 ~~~
 
-[Schemas do SIAF]()
+[Schemas do SIAF]("https://github.com/ecossistemaanima/databricks-bridge/blob/main/siaf/siaf-schemas.json")

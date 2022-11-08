@@ -1,0 +1,25 @@
+{
+  "name": "databricks-bridge",
+  "version": "1.0.0",
+  "description": "clone",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "exemplo": "node ./src/exemplo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecossistemaanima/databricks-bridge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ecossistemaanima/databricks-bridge/issues"
+  },
+  "homepage": "https://github.com/ecossistemaanima/databricks-bridge#readme",
+  "dependencies": {
+    "@databricks/sql": "^1.0.0",
+    "ora": "^6.1.2"
+  }
+}
